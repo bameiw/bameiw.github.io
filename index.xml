@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>So nice</title>
-    <link>http://bameiw.github.io/</link>
+    <link>https://bameiw.github.io/</link>
     <description>Recent content on So nice</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Dec 2018 16:18:23 +0800</lastBuildDate>
     
-	<atom:link href="http://bameiw.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bameiw.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>jiu</title>
-      <link>http://bameiw.github.io/post/testjiu/</link>
+      <link>https://bameiw.github.io/post/testjiu/</link>
       <pubDate>Sat, 29 Dec 2018 16:18:23 +0800</pubDate>
       
-      <guid>http://bameiw.github.io/post/testjiu/</guid>
+      <guid>https://bameiw.github.io/post/testjiu/</guid>
       <description>jiu 九test 123456789</description>
     </item>
     
     <item>
       <title>qi</title>
-      <link>http://bameiw.github.io/post/testqi/</link>
+      <link>https://bameiw.github.io/post/testqi/</link>
       <pubDate>Sat, 29 Dec 2018 16:18:23 +0800</pubDate>
       
-      <guid>http://bameiw.github.io/post/testqi/</guid>
+      <guid>https://bameiw.github.io/post/testqi/</guid>
       <description>qi 七test 123456789</description>
     </item>
     
     <item>
       <title>san</title>
-      <link>http://bameiw.github.io/post/testsan/</link>
+      <link>https://bameiw.github.io/post/testsan/</link>
       <pubDate>Sat, 29 Dec 2018 16:18:23 +0800</pubDate>
       
-      <guid>http://bameiw.github.io/post/testsan/</guid>
+      <guid>https://bameiw.github.io/post/testsan/</guid>
       <description>san 三test 123456789</description>
     </item>
     
     <item>
       <title>wu</title>
-      <link>http://bameiw.github.io/post/testwu/</link>
+      <link>https://bameiw.github.io/post/testwu/</link>
       <pubDate>Sat, 29 Dec 2018 16:18:23 +0800</pubDate>
       
-      <guid>http://bameiw.github.io/post/testwu/</guid>
+      <guid>https://bameiw.github.io/post/testwu/</guid>
       <description>wu 五test 123456789</description>
     </item>
     
     <item>
       <title>yi</title>
-      <link>http://bameiw.github.io/post/testyi/</link>
+      <link>https://bameiw.github.io/post/testyi/</link>
       <pubDate>Sat, 29 Dec 2018 16:18:23 +0800</pubDate>
       
-      <guid>http://bameiw.github.io/post/testyi/</guid>
+      <guid>https://bameiw.github.io/post/testyi/</guid>
       <description>yi 一test 123456789</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://bameiw.github.io/archives/</link>
+      <link>https://bameiw.github.io/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bameiw.github.io/archives/</guid>
+      <guid>https://bameiw.github.io/archives/</guid>
       <description>title: &amp;ldquo;归档&amp;rdquo; description: Android资深工程师 ，Go和Java打杂师，《Android Gradle权威指南》作者，Android官方技术文档译者 type: archives</description>
     </item>
     
